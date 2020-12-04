@@ -1,4 +1,4 @@
-name: Manually triggered workflow
+name: Pub Branch triggered workflow
 on:
   workflow_dispatch:
     inputs:
